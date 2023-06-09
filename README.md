@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/ubiies/" target="_blank"><img src="https://img.shields.io/badge/ubiies-A566FF?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@ubiies" target="_blank"><img src="https://img.shields.io/badge/velog-9FC93C?style=flat-square&logo=Velog&logoColor=white"/></a>
