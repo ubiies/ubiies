@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-    <h3>📚💁‍♂️📚</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiies" alt="Top Langs" />
     </a>
